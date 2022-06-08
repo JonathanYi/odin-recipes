@@ -1,0 +1,17 @@
+.dish{
+    font-size: 48px;
+    font-weight: bold;
+    color: blue;
+    background-color: black;
+}
+.photo{
+    width: 500px;
+}
+.header-two{
+    color: red;
+    font-size: 24px;
+}
+.sub-list{
+    font-weight: bolder;
+    background-color: yellow;
+}
